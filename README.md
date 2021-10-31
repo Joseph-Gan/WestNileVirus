@@ -1,5 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Kaggle Competition - Starter
-
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Kaggle Competition
 ## Background
 
 
@@ -31,4 +30,4 @@ The dataset, along with description, can be found here: [https://www.kaggle.com/
 
 ## Methodology Summary
 
-![alt text](https://github.com/Joseph-Gan/WestNileVirus/asset/blob/main/Flowchart.jpg?raw=true)
+![alt text](https://github.com/Joseph-Gan/WestNileVirus/blob/main/asset/Flowchart.jpg?raw=true)
